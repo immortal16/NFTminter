@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Japanese Wavy #1",
+    "description": "ghi4a's Japanese Art NFT Collection",
+    "image": "https://nftstorage.link/ipfs/bafybeiegksslivyumpskblp4sautcncarvu7dlwm2ebbgazgfwmy7hbpoi/1.png",
+    "dna": "b89b1c1a1a9671a010f0b347c5b71904b20d14f6",
+    "edition": 1,
+    "date": 1660333261172,
+    "artist": "ghi4a",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pink"
+      },
+      {
+        "trait_type": "Planet",
+        "value": "c"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "logo"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Japanese Wavy #2",
+    "description": "ghi4a's Japanese Art NFT Collection",
+    "image": "https://nftstorage.link/ipfs/bafybeiegksslivyumpskblp4sautcncarvu7dlwm2ebbgazgfwmy7hbpoi/2.png",
+    "dna": "72b96e3182a47a01ddb2738b6551f2dcf8a23be0",
+    "edition": 2,
+    "date": 1660333262006,
+    "artist": "ghi4a",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "black"
+      },
+      {
+        "trait_type": "Planet",
+        "value": "a"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "logo"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Japanese Wavy #3",
+    "description": "ghi4a's Japanese Art NFT Collection",
+    "image": "https://nftstorage.link/ipfs/bafybeiegksslivyumpskblp4sautcncarvu7dlwm2ebbgazgfwmy7hbpoi/3.png",
+    "dna": "3b504e2d19568705c8d9ba9010217acdb763b178",
+    "edition": 3,
+    "date": 1660333262964,
+    "artist": "ghi4a",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "default"
+      },
+      {
+        "trait_type": "Planet",
+        "value": "b"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "logo"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]
